@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Colorful Tech Banner" width="700" />
 </p>
 
-# 👋 Hey, I’m Sanghkara dhaware!
+# 👋 Hey, I’m Sanghkar Adhaware!
 
 ### 🚀 Software Engineer | Tech Enthusiast | Problem Solver
 
